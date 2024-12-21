@@ -6,7 +6,7 @@
 		"Author": "plushy",
 		"Description": "Sonic XG's hud but its sonic 3",
 		"URL": "https://sonic3air.org",
-		"ModVersion": "1.5.0.0 (galore beta test)",
+		"ModVersion": "2.0.0.0 (galore beta test)",
 		"GameVersion": "20.04.26.0"
 	},
 	"Settings":
@@ -24,6 +24,6 @@
 						"1": "On"
 				}
 			}
+		]
 	}
-}
 }
