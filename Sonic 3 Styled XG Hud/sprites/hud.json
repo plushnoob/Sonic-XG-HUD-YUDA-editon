@@ -1,0 +1,11 @@
+{
+	"failsafe":  { "File": "hud_text_sprites.png", "Rect": "64,82,34,24", "Center": "19,25" },
+	"XG_icon_sonic":  { "File": "hud_icon.bmp", "Rect": "0,0,25,29", "Center": "0,15" },
+	"XG_icon_sonic_SMALL":  { "File": "hud_icon.bmp", "Rect": "1,30,17,16", "Center": "0,5" },
+	"XG_icon_tails":  { "File": "hud_icon.bmp", "Rect": "27,0,25,29", "Center": "0,15" },
+	"XG_icon_tails_SMALL":  { "File": "hud_icon.bmp", "Rect": "20,30,17,16", "Center": "0,5" },
+	"XG_icon_knuckles":  { "File": "hud_icon.bmp", "Rect": "54,0,25,29", "Center": "0,15" },
+	"XG_icon_knuckles_SMALL":  { "File": "hud_icon.bmp", "Rect": "39,30,17,16", "Center": "0,5" },
+	"XG_icon_tails_alt":  { "File": "hud_icon.bmp", "Rect": "80,0,25,29", "Center": "0,15" },
+	"XG_icon_tails_alt_SMALL":  { "File": "hud_icon.bmp", "Rect": "58,30,17,16", "Center": "0,5" }
+}

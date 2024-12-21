@@ -1,0 +1,29 @@
+{
+	"Metadata":
+	{
+		"Name": "Sonic 3 Styled XG Hud",
+		"UniqueID": "PLUSHY-S3-XG-Hud",
+		"Author": "plushy",
+		"Description": "Sonic XG's hud but its sonic 3",
+		"URL": "https://sonic3air.org",
+		"ModVersion": "1.5.0.0 (galore beta test)",
+		"GameVersion": "20.04.26.0"
+	},
+	"Settings":
+	{
+		"XG-Settings":
+		[
+			{
+				"InternalName": "XG-Borders",
+				"DisplayName": "Borders",
+				"Variable": "XG_Borders",
+				"DefaultValue": "0",
+				"Options":
+				{
+						"0": "Off",
+						"1": "On"
+				}
+			}
+	}
+}
+}
